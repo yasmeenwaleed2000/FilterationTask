@@ -1,0 +1,24 @@
+.test{
+    
+font-size: 16px;
+font-weight: 900;
+color:  #324473;
+}
+
+.cardtext{
+    color:  #324473;
+    font-size: 14px;
+
+}
+
+.bbtn{
+    background: rgba(81, 128, 246, 1)!important;
+    width: 250px;
+    height: 84px;
+}
+
+.hh1{
+    
+    font-size: 64px;
+    color: #6D91EE;
+}
